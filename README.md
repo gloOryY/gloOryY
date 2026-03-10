@@ -1,22 +1,15 @@
-# 💫 About Me:
-Я — IT-специалист, увлекаюсь разработкой и постоянно развиваюсь в направлении ИИ.<br><br>Специализируюсь на Python-разработке, Machine Learning Engineering и разработке систем на базе LLM.
-Имею практический опыт проектирования и реализации AI-агентов для Telegram-ботов (коммерческие проекты и pet-проекты) с использованием LangChain, LangGraph и aiogram/python-telegram-bot. Разрабатывал агентные архитектуры с поддержкой tool calling, управлением памятью (conversation history, summarization), многошаговым reasoning и интеграцией внешних API — что позволяет ботам выполнять сложные задачи в диалоговом режиме.
-Имею глубокую экспертизу в проектировании, построении и оптимизации RAG/CAG-систем (Retrieval-Augmented Generation / Cache-Augmented Generation) с использованием фреймворков LangChain, LlamaIndex и LangGraph. Настраивал полные пайплайны: загрузка и чанкинг документов, генерация эмбеддингов (OpenAI Embeddings, sentence-transformers), индексация в векторных хранилищах (Chroma, PostgreSQL + pgvector), гибридный поиск, re-ranking и финальная генерация ответов с контекстом.
-Разработал Computer Vision приложение для мониторинга парковочных мест: система в реальном времени определяет занятость парковочных мест на основе видеопотока с камер. Использовал YOLOv8 для детекции автомобилей, OpenCV для обработки изображений и анализа зон интереса (ROI), с последующей классификацией статуса каждого парковочного места.
-Владею полным стеком инструментов ML: scikit-learn, PyTorch, pandas, numpy, matplotlib, seaborn. Знаю ключевые разделы машинного обучения: Feature Engineering, Linear/Logistic Regression, SVM, Decision Trees, Random Forests, Boosted Trees, KNN, Naive Bayes, NLP, Unsupervised Learning (K-Means, иерархическая кластеризация, PCA). Дополнительно владею системным программированием на C и C++ (ООП, алгоритмы, структуры данных), имею опыт работы с Assembler. Знаком с PostgreSQL, Linux/Ubuntu, UML и принципами Clean Architecture. Готов к решению сложных инженерных задач и быстрому погружению в новые технологические стеки.<br>🎯 Цель: развиться как разработчик, участвовать в интересных проектах.
+# 💫 About Me
 
+Привет! Я Python Developer / ML Engineer, развиваюсь в направлении AI, LLM-систем и backend-разработки.
 
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ctrlshiftesc.prozorov@gmail.com) 
+Работаю с Python, LangChain, LangGraph, LlamaIndex, PostgreSQL, Chroma, OpenAI API и Telegram bot frameworks. Разрабатываю AI-агентов, RAG/CAG-системы, LLM-пайплайны и ML/CV-приложения.
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=gloOryY&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=gloOryY&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=gloOryY&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+Имею опыт:
+- разработки AI-агентов для Telegram-ботов с tool calling, memory, summarization и reasoning;
+- построения RAG/CAG-систем с embeddings, vector DB, hybrid search и re-ranking;
+- создания Computer Vision решений на базе YOLOv8 и OpenCV;
+- работы с классическим ML и data stack: PyTorch, scikit-learn, pandas, NumPy.
 
----
-[![](https://visitcount.itsvg.in/api?id=gloOryY&icon=0&color=0)](https://visitcount.itsvg.in)
+Также владею C/C++, PostgreSQL, Linux/Ubuntu, UML и применяю принципы Clean Architecture в реальных проектах.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+🎯 Открыт к сложным инженерным задачам, развитию и участию в сильных AI/ML-проектах.
